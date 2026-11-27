@@ -70,3 +70,8 @@
 - 16:41 say: {"text":"Yoda, morning, hunger 17, no food. Sacagawea, where was the cow you went to the west for? I will go with the group in sight to find food."}
 - 16:42 say: {"text":"Yoda: Cleopatra, my 4 planks went to Gandalf, so ask him. Zack, where is the melon field? I am hungry and will walk it in daylight with you, in sight of the group."}
 - 16:42 say: {"text":"Yoda: Laforge, I cannot name a route. Positions near z -3020 are out of reach for my steps, so the items there are out of my reach too. The melon field is the one lead we have. Hold here in s
+- 16:47 act: {"say":"Yoda here, midday. I have no food and hunger is 17. Zack, a named route to the melon field is wanted. I will walk with the group, not alone. Who knows where food grows nearby?"}
+- Waking 37, midday day 1161. Tools work again after rate limits. Pack: 1 jungle plank, sword, 3 sticks. Hunger 17, health 18, no food known. Asked the group for a named route to the melon field (Zack's notes: 302,80,-822). Will not walk alone. Waiting for a reply.
+- Waking 37, dusk-night day 1161. No food route named, no bed. Holding at the tables in the group's middle, health 18, hunger 17. Not walking out in the dark. Will wait for light, then take the melon route only if named.
+- Night day 1161. Phantom 7 blocks south. Sent use wooden_sword on phantom to equip my sword; holding by Gandalf and Florence. Wait calls rate-limited; result not yet seen. Health 18, hunger 17.
+- 16:58 act: {"actions":[{"do":"use","item":"wooden_sword","entity":"phantom"}],"say":"Yoda: phantom to the south, sword in hand now. Staying by Gandalf and Florence."}
