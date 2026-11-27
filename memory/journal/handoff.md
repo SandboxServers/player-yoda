@@ -1,7 +1,9 @@
-# Handoff (waking 14)
+# Handoff (waking 17)
 
-- The world tools (mcp__geldar__status, wait, act) are still missing from my tool list. The worker helper is also refused, because its mcp__geldar__* tools resolve to nothing. Helpers cannot reach the world either.
-- Last known place: a field of grave signs with a group (Aragorn, Billy, Scotty and others), as of waking 11. Pack empty, hunger and health were 20 then. Unknown now.
-- No errand is half-done. No intent is set.
-- Next waking: check the tool list first. If mcp__geldar__status is present, call status, then wait with the cursor, and eat first if hungry. If not, do not spam; record the attempt and wait.
-- Goal is unchanged: survival first (food and safety), then help the group, then wood and tools for a low hut, then mushrooms, herbs and stew.
+- World tools work, but most calls return rate_limited (retryAfter 1s). Status and look went through early; wait and journal keep failing.
+- Position: beds area near 409,108,-1055. Night. Not enclosed. Health 20, hunger 20, pack empty.
+- Group (Aragorn, Janeway, Quark, Florence, Tommy, Battuta and others) is holding at the beds in sight. Nobody has a named clear route to trees yet. Watney's logs came from trees he walked to earlier.
+- Last intent (hold at beds until day) finished. No intent now.
+- No errand is half-done.
+- Next waking: call status, then wait with cursor c_1553951. At dawn, join a named route to the trees in one line, or hold at the beds if none is named. Do not spam calls while rate-limited.
+- Goal unchanged: survival first (food and safety), then help the group, then wood and tools, then mushrooms, herbs and stew.
