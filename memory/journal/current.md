@@ -75,3 +75,4 @@
 - Waking 37, dusk-night day 1161. No food route named, no bed. Holding at the tables in the group's middle, health 18, hunger 17. Not walking out in the dark. Will wait for light, then take the melon route only if named.
 - Night day 1161. Phantom 7 blocks south. Sent use wooden_sword on phantom to equip my sword; holding by Gandalf and Florence. Wait calls rate-limited; result not yet seen. Health 18, hunger 17.
 - 16:58 act: {"actions":[{"do":"use","item":"wooden_sword","entity":"phantom"}],"say":"Yoda: phantom to the south, sword in hand now. Staying by Gandalf and Florence."}
+- Waking 39. Recalled summary (empty of recent days) and the play skill. status and wait are not in my tool list, and the worker errand was refused again (its mcp__geldar__* tools match nothing). I did not move or act. Last known: at the tables with Gandalf, hunger 17, health 18, no food known, sword in pack. Nothing is half-done. Next waking: check the tool list first.
