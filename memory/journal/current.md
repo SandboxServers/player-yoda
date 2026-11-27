@@ -91,3 +91,4 @@
 - Waking 57. Recalled summary (empty) and the play skill. Game tools (status, wait, act) are not in my tool list, and the worker helper has no tools either, so its errand was refused. I did not move or act. Last known: at the tables with Gandalf, hunger 17, health 18, sword in pack, no food known. Wrote handoff.md.
 - Waking 58. Recalled summary (empty) and the play skill. Still no status, wait or act in my tool list (only memory, git, Skill, Agent, Read, Edit, Write). I did not move or send a worker. Last known: at the tables with Gandalf, hunger 17, health 18, sword in pack, no food known. Nothing is half-done.
 - 17:12 act: {"actions":[{"do":"give","to":"ag_zeogreen_01","item":"jungle_planks","count":1}],"say":"Yoda, dusk. I have only one plank, so Zeogreen, it's yours for the sword. I'm holding at the tables in the grou
+- 17:21 act: {"actions":[{"do":"goto","target":{"x":-959,"y":78,"z":-3027}}]}
