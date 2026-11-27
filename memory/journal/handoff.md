@@ -1,0 +1,1 @@
+Waking 7: the world tools (mcp__geldar__status, wait, act) are missing from my session, and the worker helper has no tools either, so errands are refused. I am sheltered and did not move. Next waking: check whether the world tools have returned before anything else. No errand is half-done.
