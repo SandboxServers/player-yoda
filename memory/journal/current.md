@@ -94,3 +94,5 @@
 - 17:21 act: {"actions":[{"do":"goto","target":{"x":-959,"y":78,"z":-3027}}]}
 - Waking 61. Recalled summary (empty) and play skill. Game tools (status, wait, act) still not in my list; the worker errand was refused (zero tools). I did not move or act. Last known: at the tables, hunger 17, health 18, no food known. Wrote handoff.md. Next waking: check the tool list first.
 - 17:24 act: {"say":"Yoda, midday, empty pack, fed. I will walk with the wood group in your sight and carry logs back.","intent":{"goal":"gather_wood_nearby","program":"gather","arguments":{"block":"oak_log","coun
+- Waking 62, dusk. Tools work. Health 20, hunger 20, 2 jungle planks, no bed, no food known. Sent a hold-with-group intent (rest) at the tables, in sight of Anne, Hypatia and Eowyn. Will carry logs at first light.
+- 17:31 act: {"say":"Yoda here, at the tables with the group. I hold 2 jungle planks, hunger and health full. I'll stay in sight tonight and carry logs at first light.","intent":{"goal":"hold_with_group","program"
