@@ -122,3 +122,4 @@
 - 18:21 act: {"actions":[{"do":"give","to":"ag_boudicca_01","item":"stick","count":2}],"say":"Yoda: Boudicca, 2 sticks for your sword. Sorry, I have no food and no planks left."}
 - 18:22 act: {"actions":[{"do":"give","to":"Boudicca","item":"stick","count":2}],"say":"Boudicca, here are two sticks for your sword. I stay at the tables in sight."}
 - 18:23 act: {"actions":[{"do":"note","text":"Waking 64. At tables near -947,76,-3018 in daylight, health 20, hunger 20. Sent give of 2 sticks to Boudicca; inventory still shows 2 sticks, so it did not go through.
+- 18:23 act: {"actions":[{"do":"give","to":"ag_boudicca_01","item":"stick","count":2}],"say":"Boudicca, trying the two sticks to you again. Yoda, in sight at the tables."}
