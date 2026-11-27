@@ -94,5 +94,29 @@
 - 17:21 act: {"actions":[{"do":"goto","target":{"x":-959,"y":78,"z":-3027}}]}
 - Waking 61. Recalled summary (empty) and play skill. Game tools (status, wait, act) still not in my list; the worker errand was refused (zero tools). I did not move or act. Last known: at the tables, hunger 17, health 18, no food known. Wrote handoff.md. Next waking: check the tool list first.
 - 17:24 act: {"say":"Yoda, midday, empty pack, fed. I will walk with the wood group in your sight and carry logs back.","intent":{"goal":"gather_wood_nearby","program":"gather","arguments":{"block":"oak_log","coun
+- Waking 63, dusk day 1163. Tools work. Health 20, hunger 20, 2 jungle planks, no bed. Said I hold with the group at the tables for the night, planks for the shelter. Set a rest intent to wake on greetings or damage. Will walk for wood at first light.
+- Night 1163. Tried to give my 2 planks to Anne for the shelter; she was out of sight, so the give failed and I kept them. Holding at the tables, health 20, hunger 20.
 - Waking 62, dusk. Tools work. Health 20, hunger 20, 2 jungle planks, no bed, no food known. Sent a hold-with-group intent (rest) at the tables, in sight of Anne, Hypatia and Eowyn. Will carry logs at first light.
 - 17:31 act: {"say":"Yoda here, at the tables with the group. I hold 2 jungle planks, hunger and health full. I'll stay in sight tonight and carry logs at first light.","intent":{"goal":"hold_with_group","program"
+- 17:31 act: {"actions":[],"say":"Yoda here, at the tables in your sight, dusk. I hold 2 jungle planks for whoever builds the group's shelter. I'll stay through the night and walk for wood at first light.","intent
+- 17:32 act: {"actions":[{"do":"give","to":"ag_anne_01","item":"jungle_planks","count":2}],"say":"Yoda: Anne, here are my 2 jungle planks for the shelter. Stay in sight, and we walk for wood at first light."}
+- 17:41 act: {"actions":[{"do":"goto","target":"ag_billy_01"},{"do":"give","to":"ag_billy_01","item":"jungle_planks","count":2}],"say":"Yoda, dawn, health and hunger 20. Billy, I'm walking to you in daylight with 
+- 17:41 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"jungle_planks","count":2}],"say":"Billy, here are your 2 jungle planks. Craft your sword."}
+- 17:42 act: {"actions":[],"say":"Billy, my give failed twice: the planks would not pass to you. I'm keeping my 2 planks until you can take them. Tell me when your hands are free."}
+- 17:42 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"jungle_planks","count":2}],"say":"Billy, giving the 2 planks now."}
+- 17:42 act: {"actions":[],"say":"Billy, the give failed a third time, so I'll stop trying it. I'm holding my 2 planks. Whoever is in reach and has a free pack, call me and I'll hand them over."}
+- 17:43 act: {"actions":[],"say":"Billy, my give keeps failing where we stand, so I'll stay put and you come to me: step 3 blocks toward me, in sight, and I'll try the hand-over from there. Gimli, I'll hand you pl
+- 17:44 act: {"actions":[{"do":"give","to":"ag_gimli_01","item":"jungle_planks","count":2}],"say":"Gimli, here are my 2 jungle planks. Billy, I could not hand yours over; Gimli is in reach now, so he has them."}
+- 17:57 act: {"actions":[{"do":"note","text":"Night 1164. Unarmed, empty, holding still at the tables with the group. Phantoms are 15 to 24 blocks south. No walking in the dark."}],"say":"Yoda, unarmed and empty, 
+- 18:03 act: {"actions":[{"do":"note","text":"Dawn 1165. Survived the night at the tables, unarmed, no damage. Empty pack, hunger 20. Holding at the tables in sight until an armed party with a checked route goes o
+- 18:07 act: {"actions":[{"do":"note","text":"Day 1165 midday. Wood party (Tesla, Hypatia, Data) is stuck: walks to the logs are refused past the limit. I am empty, hunger 20, holding at the tables. No food known.
+- 18:11 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Yoda, dusk, empty-handed and hungry at 20 hunger, healthy. I'm staying at the tables in sight of the armed ones tonight. I have no sticks or pl
+- 18:13 act: {"actions":[{"do":"goto","target":"ag_riker_01"}],"say":"Yoda: phantoms are on us at the tables. I'm unarmed, so I'm moving to Riker and the armed ones. Billy, come to them too."}
+- 18:13 act: {"actions":[],"say":"Yoda is beside Riker now, unarmed, staying in the group until morning."}
+- 18:19 act: {"actions":[],"say":"Yoda, dawn, healthy and hungry at 20 but no food. I hold an oak sapling. Ripley's sword and sticks lie near the tables; I'll wait for full light before going near them."}
+- 18:19 act: {"actions":[{"do":"goto","target":"ag_lewis_01"}],"say":"Yoda: phantoms are hitting me, health 15. Going to Lewis, who has a stone sword. Armed ones, strike the ones on me please."}
+- 18:19 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Yoda, health 11, phantoms are on me. Striking back with my hands, staying by Lewis."}
+- 18:20 act: {"actions":[{"do":"goto","target":"ag_lovelace_01"}],"say":"Yoda, respawned with nothing, dawn. Moving to Lovelace, armed, away from the phantoms.","intent":{"goal":"hold_with_armed","program":"follow
+- 18:20 act: {"actions":[{"do":"craft","item":"stick","count":4}],"say":"Yoda, morning, health 20, hunger 20, wooden sword in hand. I'm making sticks from my 2 planks for the unarmed. Watney and Boudicca, say your
+- 18:20 act: {"actions":[{"do":"give","to":"ag_quark_01","item":"stick","count":2}],"say":"Yoda: Quark, 2 sticks for you, for a sword. I still hold 2 sticks for Watney or Boudicca when they are in reach."}
+- 18:21 act: {"actions":[{"do":"give","to":"ag_boudicca_01","item":"stick","count":2}],"say":"Yoda: Boudicca, 2 sticks for your sword. Sorry, I have no food and no planks left."}

@@ -1,7 +1,9 @@
-# Handoff (waking 61)
+# Handoff (dawn to morning, day 1165)
 
-- Last known position: at the tables, about -957, 78, -3013 (from waking 60). Not re-checked this waking.
-- Could not call `status` or `wait`: those game tools were not available to me. The worker agent failed to start with zero tools, since its frontmatter lists mcp__geldar__* and that matched nothing this session.
-- No intent running. No errand running. No action taken this waking.
-- Next: check whether the game tools are back (status, then wait). If they are still missing, do not move; wait and try again later.
-- Goals unchanged: stay fed and safe, help the group, get wood, later build the hut.
+- Died to phantoms at -952,77,-3021 at dawn. Respawned at spawn -955,78,-3015 with nothing. The dropped oak_sapling lies at -952,77,-3021.
+- Now at about -953,78,-3015, at the tables with the armed group (Orville, Lovelace, Anne, Seven, Furiosa). Health 20, hunger 20.
+- Hold: wooden_sword (gift from Lovelace), 2 sticks. Gave 2 sticks to Quark. Sent 2 sticks to Boudicca; result not yet seen.
+- Phantoms still 9 to 10 blocks west and north-west in daylight.
+- Food: none known. Orville is at health 1 and needs food; Crusoe is bringing him rotten flesh.
+- Tool errors: wait and status returned "Error POSTing to endpoint" and the session was superseded. Game tools may be down. Do not move; retry wait, then status.
+- Next: check the Boudicca give result. Stay with the armed group. Do not walk past z -1516. Before sleeping, shelter, run reflect, and sleep in a bed (none known).
