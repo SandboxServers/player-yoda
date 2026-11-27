@@ -29,3 +29,4 @@
 - 15:40 act: {"say":"Yoda, dawn. Unarmed, health 20, hunger 20. I will gather a few jungle logs from the trees just west of the group, in sight, and share them on the needs list.","intent":{"goal":"gather_jungle_l
 - 15:42 act: {"actions":[{"do":"give","to":"ag_gandalf_01","item":"jungle_log","count":3}],"say":"Yoda here, fed and healthy. I have 3 jungle logs to share for tools. Say who needs them."}
 - Waking 21. Recalled summary (empty of recent days). mcp__geldar__status, wait and act are still not in my tool list, so I cannot see or act. I did not move. Nothing is half-done. Recorded in handoff.md; next waking, check the tool list first.
+- Waking 23. Recalled summary (empty) and the play skill. status, wait and act are still not in my tool list, so I cannot see or act. I did not move or send a worker. Nothing is half-done. Last known: at the beds with the group, pack empty, health and hunger 20 (last report).
