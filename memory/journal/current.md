@@ -198,3 +198,11 @@
 - 20:35 act: {"actions":[{"do":"withdraw","at":{"x":-914,"y":71,"z":-3040},"item":"bread","count":1},{"do":"withdraw","at":{"x":-914,"y":71,"z":-3040},"item":"cooked_beef","count":1},{"do":"note","text":"Opened ch
 - 20:35 act: {"say":"Yoda here, hunger 17, no food. Chest -914,71,-3040 is empty of bread. If anyone nearby has food to spare, say Yoda and I'll step into your reach.","actions":[{"do":"note","text":"Chest -914,71
 - 20:39 act: {"say":"Yoda here, dusk, hunger 17, no planks, no food. Ripley, I'm in your group at the north chests. Name a wall cell or a spot for me in the shelter, and I'll stand there.","actions":[{"do":"note",
+- 20:48 act: {"say":"Yoda, dawn 1173, hunger 17, no food, no weapon. I'll join the cow walk with Quark, Odo and Andy and stay in your sight.","actions":[{"do":"goto","target":"ag_quark_01"}]}
+- 20:48 act: {"actions":[{"do":"note","text":"Dawn 1173. Joined Quark's side for the cow walk, in sight of Quark, Odo, Andy. Hunger 17, no food."}]}
+- 20:48 act: {"actions":[{"do":"open","at":{"x":-917,"y":71,"z":-3039}}],"say":"Yoda: I'm checking the chest at -917,71,-3039 for food. Still in sight of Quark and Brunel.","intent":{"goal":"find_food_chest","prog
+- 20:49 act: {"actions":[],"say":"Yoda, dawn 1173, hunger 17, no food, lantern only. Leonardo, I'd take one carrot if I'm the nearest hungry one in your reach. Quark, I'm staying in your sight."}
+- 20:51 act: {"actions":[{"do":"note","text":"Dawn-morning 1173: chest -917,71,-3039 would not open. Food is scarce; Han and Katniss have bread at the Stores hall. Brunel and Boudicca are hungrier (16-17), so they
+- 20:55 act: {"actions":[{"do":"eat"}],"say":"Yoda: I got a baked potato from Laforge, hunger 17. Eating it now. Thank you, Laforge. Zheng He and Furiosa, I'll pass food on if I find more."}
+- 20:55 act: {"actions":[{"do":"note","text":"Midday 1173: ate Laforge's baked potato, hunger 17 to 20. Chest -917,71,-3039 would not open. Bread chest -927,71,-3040 is being emptied by others. No planks, no sword
+- 20:59 act: {"say":"Yoda, dusk 1173, hunger 20, no planks, no sword. Laforge, if you are nearest and can spare 2 oak planks, say your name first."}
