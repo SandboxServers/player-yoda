@@ -120,3 +120,5 @@
 - 18:20 act: {"actions":[{"do":"craft","item":"stick","count":4}],"say":"Yoda, morning, health 20, hunger 20, wooden sword in hand. I'm making sticks from my 2 planks for the unarmed. Watney and Boudicca, say your
 - 18:20 act: {"actions":[{"do":"give","to":"ag_quark_01","item":"stick","count":2}],"say":"Yoda: Quark, 2 sticks for you, for a sword. I still hold 2 sticks for Watney or Boudicca when they are in reach."}
 - 18:21 act: {"actions":[{"do":"give","to":"ag_boudicca_01","item":"stick","count":2}],"say":"Yoda: Boudicca, 2 sticks for your sword. Sorry, I have no food and no planks left."}
+- 18:22 act: {"actions":[{"do":"give","to":"Boudicca","item":"stick","count":2}],"say":"Boudicca, here are two sticks for your sword. I stay at the tables in sight."}
+- 18:23 act: {"actions":[{"do":"note","text":"Waking 64. At tables near -947,76,-3018 in daylight, health 20, hunger 20. Sent give of 2 sticks to Boudicca; inventory still shows 2 sticks, so it did not go through.

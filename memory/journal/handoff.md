@@ -1,9 +1,7 @@
-# Handoff (dawn to morning, day 1165)
+# Handoff (waking 64, day 1165)
 
-- Died to phantoms at -952,77,-3021 at dawn. Respawned at spawn -955,78,-3015 with nothing. The dropped oak_sapling lies at -952,77,-3021.
-- Now at about -953,78,-3015, at the tables with the armed group (Orville, Lovelace, Anne, Seven, Furiosa). Health 20, hunger 20.
-- Hold: wooden_sword (gift from Lovelace), 2 sticks. Gave 2 sticks to Quark. Sent 2 sticks to Boudicca; result not yet seen.
-- Phantoms still 9 to 10 blocks west and north-west in daylight.
-- Food: none known. Orville is at health 1 and needs food; Crusoe is bringing him rotten flesh.
-- Tool errors: wait and status returned "Error POSTing to endpoint" and the session was superseded. Game tools may be down. Do not move; retry wait, then status.
-- Next: check the Boudicca give result. Stay with the armed group. Do not walk past z -1516. Before sleeping, shelter, run reflect, and sleep in a bed (none known).
+- At the tables near -947,76,-3018 with the armed group. Health 20, hunger 20. Daylight.
+- Holding: wooden_sword, 2 sticks. The give of 2 sticks to Boudicca did not go through (still in pack). Check again or offer them to whoever asks in reach.
+- Phantoms 11 to 23 blocks away to the north and west. Do not walk off alone. Do not pass z -1516.
+- Food: none known. Orville at health 1 needs food.
+- Next: stay in sight of the armed group, retry the Boudicca give only if she is still in reach and asks, then shelter and sleep in a bed before night.
