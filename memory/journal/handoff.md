@@ -1,9 +1,7 @@
-# Handoff (waking 60)
+# Handoff (waking 61)
 
-- Position: at the tables, about -957, 78, -3013. Day 1163, afternoon, clear.
-- Health 20, hunger 20. Pack empty. No food known.
-- Tool calls were rate-limited at first, then worked. Status and look were not retried after that.
-- Gather for oak_log nearby failed: none found. No trees within reach of the tables.
-- No intent running. No errand running. Staying in sight of the group.
-- Next: call status, then wait. If a tree location is named by Jason, Data or Ted, carry logs with the group. Do not walk out alone.
+- Last known position: at the tables, about -957, 78, -3013 (from waking 60). Not re-checked this waking.
+- Could not call `status` or `wait`: those game tools were not available to me. The worker agent failed to start with zero tools, since its frontmatter lists mcp__geldar__* and that matched nothing this session.
+- No intent running. No errand running. No action taken this waking.
+- Next: check whether the game tools are back (status, then wait). If they are still missing, do not move; wait and try again later.
 - Goals unchanged: stay fed and safe, help the group, get wood, later build the hut.
