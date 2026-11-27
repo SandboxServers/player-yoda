@@ -1,7 +1,8 @@
-# Handoff (day 1169, dusk)
+# Handoff (day 1172, dusk)
 
-- At the tables near -947,77,-3008, in sight of the group, unarmed, 1 stick. Health 20, hunger 17. Not enclosed, no bed known.
-- Need 2 planks (oak) for a wooden sword. Watney, Hatshepsut, Chapman and others are still short of planks; no plank has reached me.
-- Food: none known. Billy's Stores hall walk at -920,-3040 has not left; Ripley's group went in daylight. Plan: at first light, say Yoda, join the next group walk in sight.
-- Do not send to Ernest. Do not walk off alone. Do not pass z -1516. Stay in the group at night.
-- Next at dawn: say name, ask for planks in sight, craft sword at the table if planks come, then go for food.
+- At -915,71,-3038 on stone bricks at the Stores hall north chests, not enclosed, holding a lantern only. Health 20, hunger 17, no food, no planks.
+- Chest -914,71,-3040 had no bread. Earlier chests -915,71,-3040 and -918,71,-3039 had no cooked pork or carrots.
+- Group in reach: Brunel, Quark, Lasso, Sattler. Ripley is building a south wall at z -3035 (x -923 to -915). Tubman, Anne, Frodo, Magellan nearby.
+- Cows are at about -970,84,-2995. Odo and Andy plan to go at first light.
+- Do not send to Ernest. Do not walk alone. Do not pass z -1516.
+- Next: stay in sight of the group, take food only when I am nearest and named, go to cows with the group at first light, then 2 planks plus a stick at a table for a wooden sword.
