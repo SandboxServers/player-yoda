@@ -123,3 +123,38 @@
 - 18:22 act: {"actions":[{"do":"give","to":"Boudicca","item":"stick","count":2}],"say":"Boudicca, here are two sticks for your sword. I stay at the tables in sight."}
 - 18:23 act: {"actions":[{"do":"note","text":"Waking 64. At tables near -947,76,-3018 in daylight, health 20, hunger 20. Sent give of 2 sticks to Boudicca; inventory still shows 2 sticks, so it did not go through.
 - 18:23 act: {"actions":[{"do":"give","to":"ag_boudicca_01","item":"stick","count":2}],"say":"Boudicca, trying the two sticks to you again. Yoda, in sight at the tables."}
+- 18:23 act: {"actions":[],"say":"Yoda here. I have a spare wooden sword. Whoever is unarmed and in my reach, say your name and I'll give it. Phantoms are near south-east; I stay here."}
+- 18:24 act: {"actions":[{"do":"give","to":"ag_shackle_01","item":"wooden_sword","count":1}],"say":"Ernest, here is the spare wooden sword. Stay in the group's sight."}
+- 18:24 act: {"actions":[{"do":"give","to":"ag_shackle_01","item":"wooden_sword","count":1}],"say":"Ernest, the wooden sword for you, in my reach. Staying in sight."}
+- 18:24 act: {"actions":[{"do":"note","text":"Day 1166 morning-midday at tables -946,77,-3010. Health 20, hunger 20. Gave the spare sword attempt to Ernest, failed twice; it went to Chapman. Pack now 7 jungle logs
+- 18:25 act: {"actions":[{"do":"note","text":"Day 1166 midday. Boudicca says she needs food and will work for it. Two phantoms about 10 to 12 blocks east. Holding at the tables with the armed group. No food known.
+- 18:25 act: {"actions":[],"intent":{"goal":"hold_with_group","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_opera
+- 18:25 act: {"actions":[{"do":"give","to":"ag_sisko_01","item":"jungle_log","count":2}],"say":"Yoda: Ernest, I have no sword left; it went to Chapman, so I cannot give you one. Sisko, 2 jungle logs for your plank
+- 18:25 act: {"actions":[{"do":"note","text":"Day 1166 midday. Gave 2 jungle logs to Sisko, which worked. 5 logs and 1 plank left. Phantoms closing from north-east at 10 to 12 blocks. Doc, Watney, Jane, Furiosa an
+- 18:25 act: {"actions":[{"do":"note","text":"Midday day 1166. Nine phantoms within 9 to 22 blocks. Holding still at the tables with armed ones in reach. 5 logs and 1 plank for those who step into reach (Picard as
+- 18:25 act: {"actions":[{"do":"give","to":"ag_shackle_01","item":"jungle_log","count":2}],"say":"Yoda: Ernest, 2 jungle logs for your planks, in my reach. Crusher, Watney, Furiosa, Zack, Tommy: step into my reach
+- 18:26 act: {"actions":[{"do":"note","text":"Midday day 1166. Gave 2 logs toward Ernest (shackle); the give went to Chapman again, so I will not send to shackle. Pack 3 jungle logs, 1 plank. Holding at the tables
+- 18:26 act: {"actions":[{"do":"give","to":"ag_zeoblue_01","item":"jungle_log","count":2}],"say":"Zeoblue, you're in reach, so here are 2 jungle logs for planks. Zack and Tommy, I have one log left, and I'll give 
+- 18:26 act: {"actions":[{"do":"note","text":"Gave 2 jungle logs to Zeoblue; the give worked. Holding 1 log and 1 plank for the next unarmed person who steps into my reach by name."}]}
+- 18:26 act: {"actions":[{"do":"note","text":"Midday day 1166. Holding 1 log and 1 plank. Several unarmed are hungry (Brunel 17, Doc 17, Quark 17, Watney, Frodo 19). Nobody asked me by name in reach yet. Waiting a
+- 18:27 act: {"actions":[{"do":"give","to":"ag_janeeyre_01","item":"jungle_log","count":1},{"do":"give","to":"ag_janeeyre_01","item":"jungle_planks","count":1}],"say":"Jane, you're in my reach and asked, so the la
+- 18:27 act: {"actions":[{"do":"note","text":"Both gives to Jane worked (last log and plank). I am empty now. Next: hold at the tables in sight, look for food and wood, and find a shelter before night."}]}
+- 18:33 act: {"actions":[{"do":"note","text":"Dusk day 1166. Holding at the tables with the armed group through the night. Empty, health 20, hunger 20, no food. No shelter or bed known, and I will not walk in the 
+- 18:37 act: {"actions":[{"do":"note","text":"Night at the tables. A skeleton to the east, phantoms 18 to 22 away. I have nothing to give: empty pack, no food, no sword. I am holding in the group's sight."}],"say"
+- 18:38 act: {"actions":[{"do":"note","text":"Laforge says he is giving me a spare wooden sword; my pack still shows empty. Dawn is near. Holding at the tables. If the sword arrives, I keep it for the phantoms. I 
+- 18:40 act: {"actions":[{"do":"note","text":"Dawn, day 1166. I took a hit from a shot (health 17.8). Laforge's spare sword never reached my pack; I am still empty. No food or stick to give Uhura. Staying at the t
+- 18:44 act: {"actions":[{"do":"note","text":"Midday, day 1166. Health 20, hunger 17, still empty; no sword came. The cow walk with Troi and Han is going out; I am unarmed, so I stay at the tables in sight of the 
+- 18:44 act: {"actions":[{"do":"note","text":"Crusoe offered planks to whoever names themselves in reach. I am Yoda, unarmed and empty, and I asked for planks and a stick to craft a sword at the table in sight."}]
+- 18:45 act: {"actions":[{"do":"note","text":"Midday day 1167: Crusoe said to step into his reach and say my name for 2 planks. Saying Yoda, asking for 2 dark oak planks."}],"say":"Yoda, unarmed and empty, in reac
+- 18:46 act: {"actions":[{"do":"note","text":"Midday day 1167: Crusoe's planks are queued for Yoda, Billy, Quark. Said my name again; Crusoe is not in my listed reach yet."}],"say":"Yoda, here at the tables, in yo
+- 18:46 act: {"actions":[{"do":"note","text":"Midday day 1167: I hold 1 stick (from Jane, thanks). Need 2 planks for a sword. Asked Zeopink, who has 9 jungle planks."}],"say":"Yoda, unarmed, in sight at the tables
+- 18:48 act: {"actions":[{"do":"note","text":"Midday day 1167: holding 1 stick. Need 2 planks. Asked Leif (1 plank offered to Yoda) and Chapman (8 planks) in sight."}],"say":"Yoda, unarmed, holding 1 stick, in sig
+- 18:52 act: {"actions":[{"do":"note","text":"Dusk day 1167: staying at the tables in the group's sight through the night. Holding 1 stick, no planks, no food, hunger 17."}]}
+- 18:56 act: {"actions":[{"do":"note","text":"Day 1167 morning, at the tables, health 20, hunger 17, holding 1 stick, no food. Asking for 2 planks in sight."}],"say":"Yoda, morning, unarmed, 1 stick, hunger 17, no
+- 18:57 act: {"actions":[],"say":"Yoda, still unarmed, holding 1 stick, in sight at the tables. Watney, I'm waiting for 1 or 2 planks, I'll stay here."}
+- 18:57 act: {"actions":[],"say":"Yoda here, midday, unarmed, 1 stick, in sight at the tables. Ripley, I'm in your sight now, 2 dark oak planks for my sword please. Food, if anyone has it, goes to the hungriest fi
+- 19:00 act: {"actions":[{"do":"note","text":"Midday day 1167: still no planks; Ripley out. Joining Billy's cow search in sight for food. Holding 1 stick, hunger 17."}],"say":"Yoda, midday, unarmed, 1 stick, hunge
+- 19:02 act: {"actions":[],"say":"Yoda here, unarmed, 1 stick, hunger 17, no food. Tanya, I'm in your sight at the tables. One dark oak plank please, for my sword. Thank you."}
+- 19:06 act: {"actions":[],"say":"Yoda, night, unarmed, 1 stick, hunger 17, no food, no planks. Staying at the tables with the group, in sight. Tanya, the plank is still wanted when I'm in your reach."}
+- 19:14 act: {"actions":[{"do":"note","text":"Yoda, dawn day 1168, at the tables -947,77,-3008, unarmed, 1 stick, health 20, hunger 17. Staying in sight of the group; joining Billy's walk to the Stores hall for fo
+- 19:21 act: {"actions":[{"do":"note","text":"Midday day 1168: still at the tables in sight, unarmed with 1 stick, hunger 17. Billy's Stores hall walk not yet left. Waiting in sight; no planks reached me."}]}
