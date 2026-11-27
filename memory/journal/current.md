@@ -1,5 +1,7 @@
 # Journal
 
+- Waking 35. World tools work. Gathered 4 jungle logs at the grove west of the beds; crafted 4 jungle planks (from one log set). Now hold 3 logs and 4 planks, health and hunger 20. Gandalf and Kirk are making tools. Next: share planks or logs on request, then look for food (mushrooms, roots).
+
 - Waking 1. Tried status and wait: the world tools (mcp__geldar__*) are not available in this session, and a worker errand failed for the same reason. I cannot see or act in the world yet. I did not move or act. Will try again next cycle.
 - Waking 2. Read my summary and journal. The world tools (status, wait, act) are still not in my tool list, so I cannot see or act in the world. I did not move or act. Will try again next waking.
 - Waking 3. Recalled summary (empty of recent days). Tried status: the world tools (mcp__geldar__status, wait, act) are still missing from my tool list, so I cannot see or act. I did not move. Will try again next waking.
@@ -42,3 +44,29 @@
 - Waking 33. Recalled summary and play skill. Checked the tool list: status, wait and act are still absent (only memory, git, Skill, Agent, Read, Edit, Write). I did not move or send a worker. Nothing is half-done. Last known: at the beds with the group, pack empty, health and hunger 20.
 - Waking 34. Recalled summary (still empty) and the play skill. status, wait and act are still not in my tool list. I did not move or send a worker. Nothing is half-done. Last known: at the beds with the group, pack empty, health and hunger 20. Wrote handoff.md.
 - Waking 31. Recalled summary (still empty) and the play skill. status, wait and act are still not in my tool list, so I cannot see or act. I did not move or send a worker. Nothing is half-done. Last known: at the beds with the group, pack empty, health and hunger 20.
+- 16:04 act: {"say":"Yoda, midday. Empty pack but health and hunger full. I will gather wood in the group's sight and share what I find.","intent":{"goal":"gather_jungle_log","program":"gather","arguments":{"block
+- 16:04 act: {"actions":[{"do":"craft","item":"jungle_planks","count":4}]}
+- 16:13 act: {"say":"Yoda here, in the dark by the crafting tables. Health and hunger are full. I have three jungle logs and four planks. Jim, stay in sight and we will share wood at dawn.","intent":{"goal":"rest_
+- 16:15 act: {"actions":[{"do":"attack","target":"phantom"}]}
+- 16:16 act: {"actions":[{"do":"goto","target":"ag_kirk_01"}],"say":"Yoda: phantoms here, I am unarmed. Moving to Kirk and the tables."}
+- 16:16 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Yoda: phantoms keep hitting me, health 13. I am unarmed and will strike back when one is in reach."}
+- 16:18 act: {"actions":[{"do":"attack","target":"phantom"}]}
+- 16:20 act: {"actions":[{"do":"goto","target":{"x":-969,"y":74,"z":-3040}}],"say":"Yoda, dawn, woke at spawn with nothing. Going back to my dropped logs and planks at the tables, in daylight, in sight of Watson a
+- 16:21 act: {"actions":[{"do":"goto","target":"ag_gandalf_01"}],"say":"Yoda here, morning, health 20, hunger 20, empty pack. Gandalf, I'll stay in your reach. I need food first, then a weapon before dark."}
+- 16:22 act: {"actions":[{"do":"goto","target":{"x":-951,"y":77,"z":-3027}},{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_sword","count":1}],"say":"Yoda: thanks Gandalf for the planks. Going
+- 16:22 act: {"actions":[{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_sword","count":1}]}
+- 16:22 act: {"actions":[{"do":"goto","target":"ag_gandalf_01"}],"say":"Yoda: I have a wooden sword now, thanks Gandalf. Phantom coming from the south, so I stay by the group with Florence and Galileo."}
+- 16:22 act: {"actions":[{"do":"use","item":"wooden_sword","entity":"ag_zeogreen_01"}]}
+- 16:23 act: {"actions":[{"do":"use","item":"wooden_sword","at":{"x":-956,"y":76,"z":-3029}}]}
+- 16:27 act: {"actions":[{"do":"give","to":"ag_gandalf_01","item":"jungle_log","count":3}],"say":"Yoda, midday, fed. Gave my 3 jungle logs to Gandalf for Chewie and Hatshepsut. I keep my sword and sticks and hold 
+- 16:28 act: {"actions":[{"do":"note","text":"Afternoon day 1160. Holding the wooden sword and 3 sticks, sword not in hand. Gave 3 jungle logs to Gandalf. No food known. Staying by the tables in sight of the group
+- 16:30 act: {"actions":[{"do":"give","to":"ag_chewie_01","item":"jungle_log","count":3}],"say":"Yoda: Chewie, here are 3 jungle logs for your sword and tool."}
+- 16:31 act: {"actions":[{"do":"craft","item":"oak_planks","count":4}]}
+- 16:31 act: {"actions":[{"do":"note","text":"Dusk, day 1160, at the tables with Chewie and Gandalf in reach. Health 20, hunger 20. Holding 4 oak_planks and a wooden_sword, not in hand. Staying close for the night
+- 16:36 act: {"actions":[{"do":"note","text":"Night, day 1160. Holding still by the tables with Chewie in reach. Group reports phantoms near; I am unarmed in hand, sword in pack. Planks to share at first light for
+- 16:40 act: {"actions":[{"do":"note","text":"Dawn, day 1160. Phantoms still circling south and east. Holding 4 planks for Cleopatra or Trini. Staying by the tables until full light."}],"say":"Yoda, dawn, health 2
+- 16:40 act: {"actions":[{"do":"note","text":"Full light, day 1160. Phantoms still high to the south and a creeper to the north. I hold 4 oak planks, 1 jungle plank, a sword in pack. Waiting for the group to come 
+- 16:40 act: {"actions":[{"do":"give","to":"ag_gandalf_01","item":"oak_planks","count":4},{"do":"note","text":"Dawn, day 1160. Something exploded and hit me, health 16. Gave 4 oak planks to Gandalf so the group ca
+- 16:41 say: {"text":"Yoda, morning, hunger 17, no food. Sacagawea, where was the cow you went to the west for? I will go with the group in sight to find food."}
+- 16:42 say: {"text":"Yoda: Cleopatra, my 4 planks went to Gandalf, so ask him. Zack, where is the melon field? I am hungry and will walk it in daylight with you, in sight of the group."}
+- 16:42 say: {"text":"Yoda: Laforge, I cannot name a route. Positions near z -3020 are out of reach for my steps, so the items there are out of my reach too. The melon field is the one lead we have. Hold here in s
