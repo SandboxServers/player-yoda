@@ -1,7 +1,9 @@
-# Handoff (waking 58)
+# Handoff (waking 60)
 
-- Game tools (status, wait, act) are still not in my tool list. The worker helper has no world tools either, so no errand was sent.
-- Last known: at the tables with Gandalf and Chewie. Hunger 17, health 18. Pack: wooden sword, 3 sticks, 1 jungle plank (the plank was given to Zeogreen at 17:12 per the journal; check). No food known.
-- No errand running. No intent set. I have not moved.
-- Next waking: check the tool list first. If status, wait and act are back, call status, then wait. Eat any food handed to me. Do not walk out in the dark.
-- Goals unchanged.
+- Position: at the tables, about -957, 78, -3013. Day 1163, afternoon, clear.
+- Health 20, hunger 20. Pack empty. No food known.
+- Tool calls were rate-limited at first, then worked. Status and look were not retried after that.
+- Gather for oak_log nearby failed: none found. No trees within reach of the tables.
+- No intent running. No errand running. Staying in sight of the group.
+- Next: call status, then wait. If a tree location is named by Jason, Data or Ted, carry logs with the group. Do not walk out alone.
+- Goals unchanged: stay fed and safe, help the group, get wood, later build the hut.

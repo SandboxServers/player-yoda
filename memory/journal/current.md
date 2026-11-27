@@ -92,3 +92,4 @@
 - Waking 58. Recalled summary (empty) and the play skill. Still no status, wait or act in my tool list (only memory, git, Skill, Agent, Read, Edit, Write). I did not move or send a worker. Last known: at the tables with Gandalf, hunger 17, health 18, sword in pack, no food known. Nothing is half-done.
 - 17:12 act: {"actions":[{"do":"give","to":"ag_zeogreen_01","item":"jungle_planks","count":1}],"say":"Yoda, dusk. I have only one plank, so Zeogreen, it's yours for the sword. I'm holding at the tables in the grou
 - 17:21 act: {"actions":[{"do":"goto","target":{"x":-959,"y":78,"z":-3027}}]}
+- 17:24 act: {"say":"Yoda, midday, empty pack, fed. I will walk with the wood group in your sight and carry logs back.","intent":{"goal":"gather_wood_nearby","program":"gather","arguments":{"block":"oak_log","coun
