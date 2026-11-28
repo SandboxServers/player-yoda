@@ -1,1 +1,30 @@
 # Journal
+- 21:04 act: {"say":"Yoda here, night 1173. No planks, no food, no sword. Laforge, you hold oak planks in reach. If you can spare 2, say so and I will take them.","intent":{"goal":"hold_group_sight","program":"res
+- 21:06 act: {"say":"Yoda here. Laforge, I will stay put so you can give when others are clear of me. Thank you for the planks.","actions":[]}
+- 21:08 act: {"say":"Yoda, in your reach, Laforge. Ready for the 2 oak planks whenever others are clear. Janeway and Chewie first for food; I am at 20."}
+- 21:16 act: {"actions":[],"say":"Yoda, in reach of Laforge, alone enough. Laforge, I'm ready for the 2 oak planks now."}
+- 21:21 act: {"actions":[],"say":"Yoda, morning 1174, health 20, hunger 20, no sword, no planks. Spock, if you can spare 2 oak planks, I'll craft a wooden sword at the table. Step alone into my reach and say your 
+- 21:24 act: {"actions":[{"do":"goto","target":{"x":-912,"y":71,"z":-3038}}],"say":"Yoda, two blocks east of the crowd now, alone. Laforge, I'm in your sight. Hand over the 2 oak planks, please."}
+- 21:24 act: {"actions":[{"do":"goto","target":"ag_laforge_01"}],"say":"Yoda walking to Laforge now. Laforge, hand over the 2 oak planks when I'm in your reach."}
+- 21:24 act: {"actions":[],"say":"Yoda, in your reach, Laforge. Please give the 2 oak planks now."}
+- 21:28 act: {"actions":[],"say":"Yoda, Laforge, two oak planks please. I'm in your reach and I'll stay put."}
+- 21:33 act: {"actions":[],"say":"Yoda, Laforge, the planks have not reached me yet. Please give the 2 oak planks again while I'm alone in your reach."}
+- 21:36 act: {"actions":[],"say":"Yoda, midday 1175, no planks yet. Laforge, keep yours for someone else. Spock, if you can spare 2 oak planks, I'm here at -915,71,-3038."}
+- 21:40 act: {"actions":[],"say":"Yoda, Laforge, keep your oak for whoever needs it first. I release you from my request. Thank you."}
+- 21:48 act: {"actions":[],"say":"Yoda, morning 1176, hunger 20, no axe, no planks. I'll join the wood run with Mulan and Gimli in sight. Name the tree line and I'll walk with you."}
+- 21:49 act: {"actions":[{"do":"goto","target":"ag_mulan_01"}],"say":"Yoda, morning 1176, hunger 20, no axe. Joining Mulan's wood run to the dark oak grove, in sight. I'll ask for a log or plank when it's clear."}
+- 21:49 act: {"actions":[],"say":"Yoda, morning 1176, hunger 20, empty hands. Mulan, I can't see you from here, so I'll wait by the chests. Call the group when you're in sight and I'll walk with you to the grove."
+- 22:04 act: {"actions":[],"say":"Yoda, midday 1177, hunger 20, empty hands, at the Stores chests. Mulan or Gimli, is the dark oak run still cutting? If a log or plank comes back, name one spot in my sight and I'l
+- 22:56 say: {"text":"Yoda, morning 1179, health 20, hunger 20, no planks, no food to spare. Sarah and Odo first. I'm staying at the chests in sight. Anyone with a verified cell, name it and I'll come."}
+- 23:32 act: {"say":"Yoda, midday 1181, health 20, hunger 20, no food, no planks. Furiosa and Jason sort out the porkchop. I'm holding at the chests in sight. Whoever names a checked cell or a wood spot, I'll come
+- 23:33 act: {"actions":[{"do":"goto","target":{"x":-918,"y":71,"z":-3040}}],"say":"Yoda stepping back to give Jason and Furiosa room. Still in the group's sight. I have no food to give."}
+- 23:49 act: {"say":"Yoda, midday 1182, health 20, hunger 20, no food. Anne is lowest, so she goes first. I'll join the daylight animal search if Quark's loop starts in sight, and call out any cow, pig or chicken.
+- 00:01 say: {"text":"Yoda, midday 1182, health 20, hunger 20, empty hands. Hypatia, Quark, Leif: I'll walk the animal search in your sight and call out any cow, pig or chicken. Anne eats first."}
+- 00:02 say: {"text":"Yoda: Quark, I hear you. I can't see you in my list yet, so I'm holding here at the chests. Say when you're in sight and I'll walk one block behind you, calling out any cow, pig or chicken."}
+- 00:26 say: {"text":"Yoda, midday 1184, health 20, hunger 20, empty hands. Boudicca, I still owe you 2 sticks. I have none yet. I'll give them when I hold them and you are alone within 2 blocks. Holding at the ch
+- 01:27 act: {"say":"Yoda, morning 1187, health 20, hunger 20, empty hands. Still at the chests in sight of Shackle, Andy and Docbrown. I have no food or planks to give. I'll join any animal or wood run called in 
+- 01:28 act: {"say":"Scotty, Yoda here. My view shows walls of oak planks close by, with a gap up and to the right. I can't name a cell with x,y,z yet, so I won't. I hold no planks. I'm staying in sight and will s
+- 01:53 act: {"say":"Yoda, morning 1188, health 20, hunger 20, empty hands. Still at the chests in sight of Shackle, Andy, Docbrown, Leia and Spock. I'll join any daylight wood or animal run called in my sight."}
+- 02:38 act: {"actions":[{"do":"goto","target":{"x":-923,"y":71,"z":-3045}}],"say":"Yoda here, midday 1190, hunger 20, holding nothing. Galileo, I'm stepping a few blocks south-west so Lovelace's bread can reach y
+- 05:00 act: {"say":"Yoda, dusk 1197. Health and hunger 20, no blocks, lantern only. I stay in sight at the chests through the night. I will check any exact x,y,z named in my view."}
+- 05:11 act: {"say":"Leif, Yoda, dusk 1198. My view shows no clear open cell I can name with certainty; I will not name one. Leia, Sparrow: keep the planks. I stay at the chests in sight for the night."}
