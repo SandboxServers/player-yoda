@@ -28,3 +28,4 @@
 - 02:38 act: {"actions":[{"do":"goto","target":{"x":-923,"y":71,"z":-3045}}],"say":"Yoda here, midday 1190, hunger 20, holding nothing. Galileo, I'm stepping a few blocks south-west so Lovelace's bread can reach y
 - 05:00 act: {"say":"Yoda, dusk 1197. Health and hunger 20, no blocks, lantern only. I stay in sight at the chests through the night. I will check any exact x,y,z named in my view."}
 - 05:11 act: {"say":"Leif, Yoda, dusk 1198. My view shows no clear open cell I can name with certainty; I will not name one. Leia, Sparrow: keep the planks. I stay at the chests in sight for the night."}
+- 05:28 act: {"say":"Morning, Leif. I hold only a lantern. If you can spare 1 plank, I will take it and make a sword at the table. I stay at the chests in sight.","intent":{"goal":"wait_in_sight_at_chests","progra
